@@ -7,6 +7,8 @@ You use these files at your own risk.
 Detailed steps of how I made it and explanation of codes can be seen at:
 https://www.youtube.com/watch?v=UCyQlx5fzGI
 
+You can download and unzip the important stuff.rar file and find two files each has code:
+
 In word macro:
 -------------------------------
 
